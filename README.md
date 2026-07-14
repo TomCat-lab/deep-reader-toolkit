@@ -24,6 +24,14 @@ cd deep-read
 pip install -r requirements.txt
 ```
 
+## 效果展示
+
+deep-read 对不同书籍的分析报告：
+
+| 书籍 | 作者 | 报告链接 |
+|------|------|---------|
+| 《事实》 | 汉斯·罗斯林 | [查看分析报告](https://capable-tulumba-f803d0.netlify.app/) |
+
 ## 核心流程
 
 **沉淀作者经验 → 批判性思维提炼 → 精华内化**
